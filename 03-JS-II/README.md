@@ -169,7 +169,7 @@ if (10 === 9 || 10 > 9) {
 if (10 === 9 || 1 > 9) {
     console.log('Ambas declaraciones son falsas, por lo que || devolverá false y este código no se ejecutará');
 }
-```
+
 
 ### !
 
