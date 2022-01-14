@@ -1,5 +1,0 @@
-// la variables son cajones en los que se puede alojar información ya los cuale se puede acceder en cualqueir momento si los abres.
-// los Strings son cadenas de texto (letras, caracteres o numeros) que están dentro de dos simbolos llamados comillas, estas se leen unicamente como "textos".
-// las funciones son lineas de codigo dedicadas a resolver problemas lógicos, estas pueden incluit argumentos que son objetos o variables necesarias para resolver mencionados problemas, y si es necesario estas devuelven datos mediante el uso de la declaración "Return".
-// las declaraciones if son funciones condicionales, es decir que depnediendo de la prueba lógica de sus argumentos harán una determinada funcion u otra.
-// los valores booleanos son variables que dictann si un problema lógico es correcto o no mediante las sentencias true parar verdad o false para falso.
