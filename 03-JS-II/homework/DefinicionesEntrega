@@ -1,0 +1,9 @@
+//el bulce for es una sentencia usada para realizar tarea repetitivas sin necesidad de usar muchas lineas de código, eso funciona gracias
+// a sus 3 parametros declaración de variable, la condición y la variable final, cuando la condición se cumpla en la variable final, el ciclo  
+//for dejará de operar y pasara el resultado de la sentencia que tenga adentro.
+
+// los operadores lógicos son simbolos usados para comparar expresiones booleanas (falso veradero), estas arrojan resultados dependiendo
+// del resultado de la operaciones de estos operadores los cuales son:
+// or (||): esta evalua si en uno de sus parametro hay un resultado booleano falso o veraderi y conforme lo solicitado ejecutará un acción.
+// and (&&): el and evalua si todos sus parametros son o falsos o verdaderos, si resulta que almenps 1 de los parametros es falso arroja false, en casod e que todos sean correctos arroja true
+// negación (!): este operadore cambia el valor booleano de una expresion si se le coloca alfrente que esta es decir que si se colocara la expresion !true, esta arrojaría como resultado un false.
