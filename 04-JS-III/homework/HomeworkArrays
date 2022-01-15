@@ -1,0 +1,4 @@
+//un array es gabinete el cual se pueden guardar elementos, en javascript estos elemento spueden ser de cualquier tipo, son utiles para guardan información en pocas lineas de código, se usan 
+//de diversas maneras y ofrecen solcuiones rápidas y efectivas, estos se pueden recorrer mediante un ciclo for que leera todos los elemtos que están en el
+//los array tiene diversas metodos que permites agregar o quitar elementos mediantes ellos tales como los operadores push y pop que acutan en los ultimos elementos
+// incrustados en el array, estos tambien se pueden llamar vectores o matrices unicas
