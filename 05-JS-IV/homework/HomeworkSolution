@@ -1,0 +1,15 @@
+//OBJETOS;
+// Los objetos son cuerpos de código que sirven para difeeenciar algoritmos de otros, los objetos sirven para facilitar la programación de varios
+// tipos de algoritmos en un solo código
+//PROPIEDADES:
+// Las propiedades son caracteristicas o lineas de código que pertenecen a un objeto, estas van dentro del mismo y complen funciones como asignar valores al objeto
+// o insertar métodos (funciones propias del objeto) en estos mismos.
+// BUCLE FOR... IN
+// El bucle for in cumple con la funcion de un fro normal en los array, solo que este se usa para recorer exclusivaemnte obejetos, este funciona con la sintaxis (let variable in objeto)
+// donde la variable cumple la funcion del contador que recorrerá todas las propiedades del objeto.
+// NOTACIONES:
+// Para invocar propiedades de un metdo usamos diferentes tipos de notaciones, entre ellas la notación de puntos que sirve para llamar propiedades de manera litera, es decir lo que 
+// está despues del punto debe de conicidir exactamente con la propiedad del objeto y su sintaxis es así: obejto.propiedad
+
+// y también encontramos la notación por corchetes la cual maneja un poco más de libertad en el uso de sus argumentos, dentro de los corchetes podemos ingresar strings o variables que tengan 
+// guardados el nombre de una propiedad o incluso realizar operaciones entre los argumentos dentro de los corchetes para llamar a la propiedad, su sintaxis es así: objeto[propiedad o string o formula]
