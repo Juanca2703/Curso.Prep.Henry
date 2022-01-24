@@ -1,0 +1,8 @@
+// Prototype
+// es una forma de "herencia" que se usa para instaciar menos linea de código en los objetos, el Prototype es la linea de códigos que se 
+// guardan en una clase contructora y esta nos da acceso a los metodos base de una clase, para que cuando los objetos sea creados a partir de la 
+// clase, hereden estos metodos de la misma
+
+// el contructor es una herramienta usada en la creación de objetos, esta herramienta se ve más que todo en los paradigmas orientados a 
+// objetos, sirve para la creación rápida y de poco almacenamiento de varios objetos, nos ayuda a manejar los conceptos de herencia y facilita
+// la escrituta de lineas de código.
