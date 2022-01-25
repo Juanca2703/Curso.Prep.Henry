@@ -1,0 +1,2 @@
+// las funciones callback son funciones que se llaman dentro de los parametros de otra función, estás pueden recibir argumentos según lo establecido
+// en la función raiz, un callback se realiza cuando queremos integrar funciones sin necesidad de volverlas a escribir.
